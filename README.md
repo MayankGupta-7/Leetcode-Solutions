@@ -46,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1415-students-and-examinations) |
 | [1827-invalid-tweets](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1827-invalid-tweets) |
+| [1908-recyclable-and-low-fat-products](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
