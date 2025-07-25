@@ -58,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2087-confirmation-rate) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
