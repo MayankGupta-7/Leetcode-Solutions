@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0118-pascals-triangle](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -101,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0118-pascals-triangle](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
