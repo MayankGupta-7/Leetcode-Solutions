@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Divide and Conquer
 |  |
 | ------- |
