@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0027-remove-element) |
 ## Binary Search
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
