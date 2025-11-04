@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [2689-rearranging-fruits](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
