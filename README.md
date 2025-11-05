@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
