@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0474-ones-and-zeroes](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0474-ones-and-zeroes](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 ## Trie
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0474-ones-and-zeroes](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Greedy
