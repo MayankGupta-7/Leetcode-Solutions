@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2625-increment-submatrices-by-one](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2625-increment-submatrices-by-one](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sliding Window
 |  |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Matrix
+|  |
+| ------- |
+| [2625-increment-submatrices-by-one](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
