@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2058-concatenation-of-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2625-increment-submatrices-by-one](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
