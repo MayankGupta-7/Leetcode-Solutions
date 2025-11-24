@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0137-single-number-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
