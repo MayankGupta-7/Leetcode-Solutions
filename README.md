@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0474-ones-and-zeroes](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
