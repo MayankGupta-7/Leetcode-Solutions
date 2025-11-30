@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0474-ones-and-zeroes](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2689-rearranging-fruits](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0759-set-intersection-size-at-least-two](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Stack
 |  |
