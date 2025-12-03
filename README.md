@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0474-ones-and-zeroes](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1768-merge-strings-alternately](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Trie
