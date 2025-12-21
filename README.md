@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0474-ones-and-zeroes](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1768-merge-strings-alternately](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0759-set-intersection-size-at-least-two](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/MayankGupta-7/Leetcode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
